@@ -1,0 +1,8 @@
+{
+  "sku": "smart-1",
+  "title": "Smart Phone X",
+  "description": "Flagship smartphone",
+  "image_url": "https://cdn.example.com/smart-1.jpg",
+  "price": "799.00",
+  "category_id": 1
+}
